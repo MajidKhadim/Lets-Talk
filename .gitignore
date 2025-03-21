@@ -1,0 +1,7 @@
+/backend/.env
+backend/.vs/
+backend/bin/
+backend/obj/
+backend/wwwroot
+frontend/chat-frontend/.next/
+frontend/chat-frontend/node_modules/
