@@ -46,4 +46,4 @@
 - 🔄 **Voice & Video Calls**  
 
 ## **🤝 Contributing**  
-Contributions are welcome! Feel free to fork the repo and submit PRs.  
+Contributions are welcome! Feel free to fork the repo and submit PRs and contribute please.  
