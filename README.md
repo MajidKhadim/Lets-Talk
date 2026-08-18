@@ -1,6 +1,6 @@
 # **Lets-Talk 🗨️ – Real-Time Chat Application**  
 
-🚀 **Lets-Talk** is a modern, real-time chat application built with **.NET Core** and **React.js (Next.js)**. It enables seamless communication with secure authentication and real-time messaging.  
+🚀 **Lets-Talk** is a modern, real-time chat application built with **.NET Core** and **React.js (Next.js)**. It enables seamless communication with secure authentication and real-time messaging.Its build for someone. 
 
 ## **🌟 Features (Completed ✅)**  
 - ✅ **Real-Time Messaging** – Powered by **SignalR** for instant communication.  
